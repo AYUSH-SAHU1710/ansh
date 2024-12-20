@@ -1,0 +1,26 @@
+STEP 1: Open py file create table courier in the location : C:\Users\cadet\Documents\COURIER  SERVICE SYSTEM
+ 
+STEP 2: Run the file create table courier in python idle 3.7(64-bit)
+            ('Table courier is created')
+STEP 3:Open py file create table couriers2 in the location :C:\Users\cadet\Documents\COURIER  SERVICE SYSTEM 
+ 
+STEP 4:Run the file create table couriers2 in python idle 3.7(64-bit)
+            ('Table couriers2 is created')
+STEP 5:Open py file create table couriers3 in the location :C:\Users\cadet\Documents\COURIER  SERVICE SYSTEM 
+
+STEP 6:Run the file create table couriers3 in python idle 3.7(64-bit)
+            ('Table couriers3 is created')
+STEP 7:Open py file billing procedure in the location :C:\Users\cadet\Documents\COURIER  SERVICE SYSTEM 
+ 
+STEP 8:Run the file billing procedure in python idle 3.7(64-bit)
+             ('The billing procedure values are inserted into the table couriers2')
+STEP 9:Open py file courier service boys in the location :C:\Users\cadet\Documents\COURIER  SERVICE SYSTEM 
+
+STEP 10:Run the file courier service boys in python idle 3.7(64-bit) 
+            ('The couier service boys bio data are inserted into the table couriers3')
+STEP 11:Open py file courier service system in the location :C:\Users\cadet\Documents\COURIER  SERVICE SYSTEM 
+
+STEP 12:Run the file in python IDLE 3.7(64-bit)
+      (1.first ,The user should create an account or login with his existing account,
+       2.second,The file courier service system IMPORTS another python file COURIER MENU,
+       3.NOW, The user can access AYUSH & ANSH COURIER SERVICE)
